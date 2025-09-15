@@ -27,10 +27,11 @@ A **fully functional calculator** built with **HTML, CSS, and JavaScript**, supp
 
 ## Screenshots
 
-**Basic Calculator Mode:**  ![Calculator Screenshot](Screenshot%202025-09-15%20181847.png)
+**Basic Calculator Mode:**  
+![Scientific Calculator Screenshot](screenshots/calculator_scientific.png)
 
 **Scientific Calculator Mode:**  
-![Scientific Mode](screenshots/scientific.png)
+![Scientific Calculator Screenshot](screenshots/calculator_standard.png)
 
 ---
 

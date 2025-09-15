@@ -11,11 +11,11 @@ A **fully functional calculator** built with **HTML, CSS, and JavaScript**, supp
 - Clear and Equals buttons
 - Real-time input display
 
-### Scientific Calculator
-- Trigonometric functions: `sin`, `cos`, `tan` (angles in degrees)
-- Logarithmic functions: `log`, `ln`
-- Square (`x²`), Power (`xʸ`), Factorial (`n!`), Square Root (`√x`)
-- Constants: `π` and `e`
+### Scientific Calculator=
+- Square (`x²`)
+- Power (`xʸ`)
+- Factorial (`n!`)
+- Square Root (`√x`)
 
 ### Additional Features
 - Mode switching between **Basic** and **Scientific** with smooth transitions
@@ -41,3 +41,21 @@ A **fully functional calculator** built with **HTML, CSS, and JavaScript**, supp
 
 ```bash
 git clone https://github.com/yourusername/calculator-project.git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
